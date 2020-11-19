@@ -1,0 +1,10 @@
+name: refwatch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - requests
+  - beautifulsoup4
+#  - pip:
+#    - lektor==3.2.0
